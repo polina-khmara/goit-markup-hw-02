@@ -85,7 +85,7 @@ a {
   background-color: #404bbf;
 }
 
-.descr-header {
+.header-two {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -93,7 +93,7 @@ a {
   color: #2e2f42;
 }
 
-.descr-text {
+.paragraph-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -118,20 +118,6 @@ a {
   background-color: #ffffff;
 }
 
-.team-header {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.team-text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-
 .portfolio-header {
   font-weight: 700;
   font-size: 36px;
@@ -140,20 +126,6 @@ a {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-}
-
-.portfolio-header-two {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.portfolio-text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
 }
 
 .footer-section {
